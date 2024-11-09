@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMR54406DBVR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2022-08-05 08:36:08
+Downloaded=2024-11-09 03:17:45
+3D=Y
