@@ -3144,6 +3144,17 @@
 		)
 		(uuid "fc5cbe54-740b-439f-9f93-a3ba84fffcd8")
 	)
+	(text "replace this math for 3v3 logic.\nOr axe it?"
+		(exclude_from_sim no)
+		(at 159.766 94.234 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bd1fc6bf-9d66-4313-8fba-739c57afe470")
+	)
 	(text "Hard code MS1/MS2? \nCan at least let the master be user selectable.\nDoes that even make sens?"
 		(exclude_from_sim no)
 		(at 252.984 55.372 0)
