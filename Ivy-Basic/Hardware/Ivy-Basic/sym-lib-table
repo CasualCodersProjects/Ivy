@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "USB_Controller")(type "KiCad")(uri "/home/ian/Documents/projects/Ivy/USB_Controller.kicad_sym")(options "")(descr ""))
   (lib (name "LMR54406DBVR")(type "KiCad")(uri "${KIPRJMOD}/LIB_LMR54406DBVR/LMR54406DBVR/KiCad/LMR54406DBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "TMC2209-LA")(type "KiCad")(uri "${KIPRJMOD}/TMC2209-LA/TMC2209-LA.kicad_sym")(options "")(descr ""))
 )
